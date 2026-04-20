@@ -83,15 +83,13 @@ Andrew Scaife
 
 [andrewscaife.com](https://www.andrewscaife.com)
 
-## Licence
+## License
+
+MIT License. See LICENSE.md for details.
 
 Feel free to use, adapt, and make it your own.
 
 A credit link back is appreciated, but not required.
-
-## Screenshot
-
-Add a screenshot here once the repository is live.
 
 ## Future ideas
 
