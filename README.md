@@ -57,6 +57,14 @@ A few things you may want to personalise:
 - Fonts
 - External link domain rule, if needed
 
+## Support
+
+This started as a personal project and grew from there.
+
+It took a fair bit of trial and error to get it working the way I wanted, so it’s shared as-is and without support.
+
+If you’re comfortable editing Blogger themes, you’ll be fine.
+
 ## Notes
 
 This theme was built around a real site and then cleaned up for sharing, so it is practical first rather than over-engineered.
